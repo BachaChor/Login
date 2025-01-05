@@ -99,3 +99,10 @@ body {
     text-transform: uppercase;
     letter-spacing: 1.5px;
 }
+
+#submit:active {
+    background-color: transparent;
+    color: dodgerblue;
+    box-shadow: inset 3px 3px 8px #735949,
+    inset -3px -3px 8px #d9d0c1;
+}
